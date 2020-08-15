@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Causal Discovery, Machine learning, Computer vision
 - 👯 I’m looking to collaborate on things related to web development, Machine learning
-- ⚡ Fun fact: Memes for life!
+- ⚡ Fun fact: Memes make my day!
 
 <h2>My skills <img src="https://emojis.slackmojis.com/emojis/images/1563481435/6017/meow_cookie.png?1563481435" width="25"/></h2>
 <p style= "text-align:center">
