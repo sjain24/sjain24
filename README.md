@@ -18,8 +18,7 @@
   <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="30"/> 
   <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" width="30"/> 
   <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="30"/> 
-  <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="30"/> 
-  <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="30"/> 
+  <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="30"/>  
   <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1482348830/1512/jquery.png?1482348830" width="30"/> 
   <img alt="Webpack" src="https://emojis.slackmojis.com/emojis/images/1470342937/707/angular.png?1470342937" width="30"/> 
 </p>
